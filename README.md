@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilina-upendra" alt="thilina-upendra" /></a> </p>
 
-- 💬 Ask me about **Java, Javascript, Typescript, MySQL**
+- 💬 Ask me about **Software Developement**
 
 - 📫 How to reach me **upendravass1996@gmail.com**
 
