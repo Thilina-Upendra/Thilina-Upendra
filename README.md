@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋, I'm Thilina Upendra</h1>
+<h1 align="center">Hi 👋, I'm Thilina Upendra</h1>
 <h3 align="center">FULL STACK SOFTWARE DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilina-upendra&label=Profile%20views&color=0e75b6&style=flat" alt="thilina-upendra" /> </p>
