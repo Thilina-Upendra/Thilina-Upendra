@@ -22,10 +22,15 @@
 <a href="https://www.hackerrank.com/upendravass1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="upendravass1996" height="30" width="40" /></a>
 </p>
 
-//Project summary with a table
-| Project name | Repository link | Project Description |
-|---|---|---|
-| Real time process monitoring project | [Repository link](https://github.com/Thilina-Upendra/Real-Time-Process-Monitoring.git) | Brief Description |
+<h3 align="left">👨‍💻 Personal Projects</h3>
+
+<div align="center">
+  | Project name | Repository link | Project Description |
+  |---|---|---|
+  | Real time process monitoring project | [Repository link](https://github.com/Thilina-Upendra/Real-Time-Process-Monitoring.git) | Brief Description |
+
+</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
