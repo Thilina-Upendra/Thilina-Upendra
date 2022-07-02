@@ -6,7 +6,7 @@
 - 📫 How to reach me **upendravass1996@gmail.com**
 -  ⚡ Fun fact **Love to play Cricket 🏏**
 
-<h3 align="left">About me:</h3>
+<h3 align="left">🤵 About me:</h3>
 <hr>
 <p align="left">
   I'm Thilina Upendra. I'm a Full Stack Developer who is keen to learn new technologies. Always try to gain confidence in myself to face any challenge in the modern tech world.
