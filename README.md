@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@upendra_vass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@upendra_vass" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thilina upendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina upendra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thilina-upendra-542b951bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina upendra" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16041427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16041427" height="30" width="40" /></a>
 <a href="https://fb.com/upendra de vass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="upendra de vass" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/upendravass1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="upendravass1996" height="30" width="40" /></a>
