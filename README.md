@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thilina Upendra</h1>
+<h1 align="center">Hey 👋, I'm Thilina Upendra</h1>
 <h3 align="center">FULL STACK SOFTWARE DEVELOPER</h3>
 
 - 💬 Ask me about **Software Developement**
