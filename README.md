@@ -4,7 +4,7 @@
 - 💬 Ask me about **Software Developement**
 
 - 📫 How to reach me **upendravass1996@gmail.com**
--  ⚡ Fun fact **Love to play Cricket**
+-  ⚡ Fun fact **Love to play Cricket 🏏**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
