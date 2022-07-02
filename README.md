@@ -6,11 +6,15 @@
 - 📫 How to reach me **upendravass1996@gmail.com**
 -  ⚡ Fun fact **Love to play Cricket 🏏**
 
-<h3 align="left">Connect with me:</h3>
 <h3 align="left">About me:</h3>
+<hr>
 <p align="left">
   I'm Thilina Upendra. I'm a Full Stack Developer who is keen to learn new technologies. Always try to gain confidence in myself to face any challenge in the modern tech world.
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<hr>
+
 <p align="left">
 <a href="https://twitter.com/@upendra_vass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@upendra_vass" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/thilina-upendra-542b951bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina upendra" height="30" width="40" /></a>
