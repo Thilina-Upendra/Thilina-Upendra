@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thilina Upendra</h1>
 <h3 align="center">FULL STACK SOFTWARE DEVELOPER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thilina-upendra&label=Profile%20views&color=0e75b6&style=flat" alt="thilina-upendra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilina-upendra" alt="thilina-upendra" /></a> </p>
-
 - 💬 Ask me about **Software Developement**
 
 - 📫 How to reach me **upendravass1996@gmail.com**
