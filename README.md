@@ -25,7 +25,7 @@
 //Project summary with a table
 | Project name | Repository link | Project Description |
 |---|---|---|
-| Real time process monitoring of Apperal Industry | https://github.com/Thilina-Upendra/Real-Time-Process-Monitoring.git | Brief Description
+| Real time process monitoring project | [Repository link](https://github.com/Thilina-Upendra/Real-Time-Process-Monitoring.git) | Brief Description |
 
 
 <h3 align="left">Languages and Tools:</h3>
