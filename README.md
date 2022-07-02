@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **upendravass1996@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/thilina-upendra-542b951bb/overlay/1635491748957/single-media-viewer/](https://www.linkedin.com/in/thilina-upendra-542b951bb/overlay/1635491748957/single-media-viewer/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@upendra_vass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@upendra_vass" height="30" width="40" /></a>
